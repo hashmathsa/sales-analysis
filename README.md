@@ -4,9 +4,11 @@ HI
 [sales analysis.pbix](https://drive.google.com/file/d/17e1SihV3Mj2S-tJcyCYj8v4zVylBi_eb/view?usp=drive_link)
 
      Global super store Sales Analysis Data Description
-This repository contains the data and visualizations for the Global Super Store Sales Analysis. The dataset provides comprehensive sales information across various dimensions, enabling in-depth analysis and valuable insights into the business's performance.
+This repository contains the data and visualizations for the Global Super Store Sales Analysis. The dataset provides comprehensive sales information across various dimensions, enabling in-depth analysis and 
+valuable insights into the business's performance.
 
 Dataset Overview
+
 Total Sales:
 The total revenue generated from all sales activities.
 Visualized in the summary section of the report.
