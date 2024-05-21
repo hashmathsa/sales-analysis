@@ -3,6 +3,9 @@
 
 [sales analysis.pbix](https://drive.google.com/file/d/17e1SihV3Mj2S-tJcyCYj8v4zVylBi_eb/view?usp=drive_link)
 
+[sales analisis.doc](https://docs.google.com/document/d/1Ir9lVy0j8IIijpHThq-AcNYboZXfZpwSDcobkqWV7JQ/edit?usp=sharing)
+
+
     
      #Global super store Sales Analysis Data Description
 
